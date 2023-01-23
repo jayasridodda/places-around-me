@@ -100,21 +100,28 @@ temple.html
 </html>
 ```
 
-# Output
-![Output](./screenshots/out1.png)
+# Output:
 
-![Output](./screenshots/out2.png)
+![](./output.jpeg)
 
-![Output](./screenshots/out3.png)
 
-![Output](./screenshots/out4.png)
+![](./output%202.jpeg)
 
-![Output](./screenshots/out5.png)
+![](./output3.jpeg)
 
-![Output](./screenshots/out6.png)
+![](./output4.jpeg)
 
-## HTML Validator
-![HTML Validator](./screenshots/valid.png)
+
+![](./output5.jpeg)
+
+
+![](./output6.jpeg)
+
+
+## HTML Validator:
+
+![](./valid.jpeg)
+
 
 ## Result:
 The program for implememting image map is executed successfully
